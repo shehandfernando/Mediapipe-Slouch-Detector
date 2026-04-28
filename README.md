@@ -31,3 +31,9 @@ Open `monitor.py` and locate the slouch logic section:
 ## 🛠️ Tech Stack
 * **OpenCV (`cv2`):** Handles the real-time webcam video stream and frame-by-frame image rendering.
 * **MediaPipe (`mediapipe`):** Runs the machine learning model that detects and maps human pose landmarks.
+
+## 📝 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+*Developed by [Shehan Fernando](https://github.com/shehandfernando)*
